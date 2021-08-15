@@ -1,0 +1,10 @@
+div,
+button {
+    font-size: x-large;
+}
+
+#result {
+    text-align: center;
+    color: red;
+    font-size: 6vh;
+}
